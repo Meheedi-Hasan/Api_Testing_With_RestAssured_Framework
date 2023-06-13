@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRuner" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-13T10:56:30" hostname="DESKTOP-0SGIEQL" time="3.327">
+  <properties/>
+  <testcase name="login()" classname="TestRuner" time="3.327"/>
+  <system-out><![CDATA[{"token":"QpwL5tke4Pnpja7X4"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
